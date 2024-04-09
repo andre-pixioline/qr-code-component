@@ -29,8 +29,8 @@ Criar um cartão com um QR Code com um titulo e uma breve descrição.
 
 ### Links
 
-- Repositório: [GitHub - QR code component solution](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Repositório: [GitHub - QR code component solution](https://github.com/andre-pixioline/qr-code-component)
+- Live Site URL: [GitHub Pages](https://andre-pixioline.github.io/qr-code-component/)
 
 ## Meu processo
 
